@@ -6,6 +6,9 @@
 int main(int argc, char *argv[])
 {
 	
-	printf( "Welcome to C!\n" );
+	
+	printf( "Hom nay em den truong\n" );
+	printf( "Troi mua to qua\n");
+	printf( "Anh Que lai moi bia");
 		return 0; /* indicate that program ended successfully */
 } /* end function main */
